@@ -1,6 +1,6 @@
 % Copyright (c) 2025 Matteo Giordano
 %
-% Codes accompanying the article "BBayesian elliptic inverse problems with 
+% Codes accompanying the article "Bayesian elliptic inverse problems with 
 % Gaussian series priors" by Matteo Giordano
 
 %%
